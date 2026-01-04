@@ -25,6 +25,7 @@ Setup Instructions:
       pip install pandas numpy scikit-learn matplotlib seaborn torch torchvision tqdm
 
 Running the Project:
+
 Step 1 : Fetch Satellite Images
 
 Step 2 : Preprocessing.
