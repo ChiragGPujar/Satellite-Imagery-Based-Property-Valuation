@@ -42,5 +42,4 @@ This notebook :
   3) Builds Fusion Model (Tabular + Image)
   4) Evaluates using RMSE,R²
 
-Step 4: Generate Test Predictions
-The output of this is the submission file.
+Step 4: Generate Test Predictions and output is the submission file.
