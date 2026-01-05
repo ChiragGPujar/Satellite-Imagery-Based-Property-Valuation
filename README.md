@@ -3,7 +3,7 @@ A Multimodal Machine Learning project combining tabular housing data + satellite
 
 Objective:
   1) Build a multimodal regression model to predict house prices.
-  2) Use satellite imagery + structured real-estate data to capture environmental & neighborhood        context.
+  2) Use satellite imagery + structured real-estate data to capture environmental & neighborhood context.
   3) Perform EDA and geospatial understanding.
   4) Extract CNN-based visual embeddings.
   5) Fuse image + tabular features for prediction.
@@ -28,7 +28,8 @@ Running the Project:
 
 Step 1 : Fetch Satellite Images
 
-Step 2 : Preprocessing.
+Step 2 : Preprocessing
+
 This notebook:
   1) Cleans missing values
   2) Normalizes features
@@ -36,6 +37,7 @@ This notebook:
   4) Saves processed train + test embeddings
 
 Step 3: Train Multimodal Model
+
 This notebook :
   1) Trains baseline tabular-only RandomForest
   2) Trains CNN (ResNet50) to extract image embeddings
