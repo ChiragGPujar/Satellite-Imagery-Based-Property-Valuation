@@ -31,10 +31,7 @@ Running the Project:
 
 Step 1 : Fetch Satellite Images
 
-Run:
-```Python
-    data_fetcher.py
-```
+Run: data_fetcher.ipynb
 
 Step 2 : Preprocessing (preprocessing.ipynb)
 
@@ -65,4 +62,4 @@ This notebook:
      d) Neighborhood Layout
      
 
-Step 4: Generate Test Predictions and output is the submission file.
+Step 5: Generate Test Predictions and output is the submission file.
