@@ -40,6 +40,7 @@ This notebook:
   2) Normalizes features
   3) Aligns tabular rows with image availability
   4) Saves processed train + test embeddings
+Make sure to Include/copy the test and train dataset before running this notebook to avoid error.
 
 Step 3: Train Multimodal Model (model_training.ipynb)
 
